@@ -1,8 +1,39 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![node](https://img.shields.io/node/v/webpack?style=flat-square)
+![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
-Currently, two official plugins are available:
+# 💻 Woof Player(BETA)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Chihuahua approved chill music player.
+
+![homepage of Woof Player](docs/woof-player.png)
+
+
+## ✨ Live Demo
+
+You can look at it [here]().
+
+
+## Author
+
+👤 Elizabeth Villalejos
+
+- [Github](https://github.com/misselliev)
+- [Linkedin](https://linkedin.com/elivillalejos)
+- [Dev.to](https://dev.to/misselliev)
+- [Twitter](https://twitter.com/miss_elliev/)
+- [Email](mailto:elizabeth.villalejos@gmail.com?subject=Website%20Inquiry)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+> “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
